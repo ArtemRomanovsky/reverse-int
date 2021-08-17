@@ -4,7 +4,7 @@
   "description": "Template for rsapp task",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test",
+    "test": "npx mocha test",
     "postinstall": "node postinstall.js"
   },
   "engines": {
